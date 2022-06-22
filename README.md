@@ -1,5 +1,5 @@
+<h1 align="center">GolangAPI</h1>
 <p align="center">
-  <h1 align="center">GolangAPI</h1>
   This a simple Golang API created with fiber 👋
   <br>
   <b>Fiber</b> is an <a href="https://github.com/expressjs/express">Express</a> inspired <b>web framework</b> built on top of <a href="https://github.com/valyala/fasthttp">Fasthttp</a>, the <b>fastest</b> HTTP engine for <a href="https://go.dev/doc/">Go</a>. Designed to <b>ease</b> things up for <b>fast</b> development with <b>zero memory allocation</b> and <b>performance</b> in mind.
